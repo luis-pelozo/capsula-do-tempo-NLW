@@ -1,3 +1,3 @@
 <p>
-    <img src="./githb/projeto-spacetime" alt="Demonstração do projeto" width="100%">
+    <img src="./github/projeto-spacetime" alt="Demonstração do projeto" width="100%">
 </p>
